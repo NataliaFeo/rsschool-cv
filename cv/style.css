@@ -47,13 +47,13 @@ main{
     align-items: center;
     margin-top: 50px;
 }
-.intro_h2{
+.intro_h1{
 font-size: 40px;
 border-bottom: 4px solid #07a074;
 margin-bottom: 25px;
 box-shadow: 0 4px 0 rgba(5, 72, 59, 0.3);
 }
-.intro_h3{
+.intro_h2{
 font-size: 24px;
 }
 
