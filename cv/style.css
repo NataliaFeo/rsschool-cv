@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Georgia, serif;
+}
+/* Header */
+header{
+    
+}
+.header{
+   width: 100%;
+   height: 100px;
+   background: #3c3939;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.nav {
+    margin-left: 800px;
+}
+.nav_link{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    
+    color: #ccc;
+    margin-right: 25px;
+}
