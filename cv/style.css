@@ -129,3 +129,36 @@ font-size: 24px;
     font-weight: 700;
     padding: 20px;
 }
+/* Footer */
+.footer_wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 150px;
+    background: #3f4040;
+    gap: 200px;
+}
+.footer_img{
+   width: 150px; 
+}
+.footer_img:hover{
+    background-color: #07a074;
+    border-radius: 10px;
+}
+.footer_a{
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: 700;
+    color: #07a074;
+    cursor: pointer;
+}
+.footer_a:hover{
+    color: #03392a;
+    text-decoration: underline;
+}
+.footer_p{
+    font-size: 24px;
+    font-weight: 800;
+    color: #ccc;
+}
