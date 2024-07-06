@@ -109,7 +109,23 @@ font-size: 24px;
     background: #3f4040;
     text-align: center;
 }
-
 .code{
     margin-top: 30px;
+}
+/* Projects */
+.projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.projects_coffee{
+    font-size: 24px;
+    font-weight: 700;
+    padding: 20px;
+}
+.projects_donut{
+    font-size: 24px;
+    font-weight: 700;
+    padding: 20px;
 }
